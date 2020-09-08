@@ -9,4 +9,4 @@ Contact us at soulcontractcalculator-app@cloudmavericks.ca if you have any quest
 
 ## Changes to Our Privacy Policy
 
-The publisher Maverick Development may modify or update this Privacy Policy from time to time to reflect changes in our app, and so you should review this page periodically. When we change the policy in a material manner we will let you know and update the ‘last modified’ date at the top of this page.
+The publisher Maverick Development may modify or update this Privacy Policy from time to time to reflect changes in our app. Please review this page periodically. When we change the policy in a material manner we will let you know and update the ‘last modified’ date at the top of this page.
