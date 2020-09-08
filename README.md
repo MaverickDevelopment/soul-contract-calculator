@@ -2,7 +2,7 @@
 
 Welcome to the official repo for Soul Contract Calculator. This is where people can report bugs, provide general feedback, and make feature requests.
 
-You can download the Soul Contract Calculator from the Microsoft Store here: TODO
+You can download the Soul Contract Calculator from the Microsoft Store here: https://www.microsoft.com/store/apps/9MV3GZGSN8BD
 
 ## About this app
 
